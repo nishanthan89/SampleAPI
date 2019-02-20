@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SampleAssignmentModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SampleAssignmentEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Logins" EntityType="SampleAssignmentModel.Login" />
+    <EntitySet Name="RegisterUsers" EntityType="SampleAssignmentModel.RegisterUser" />
+    <EntitySet Name="sysdiagrams" EntityType="SampleAssignmentModel.sysdiagram" />
+    <EntitySet Name="Tasks" EntityType="SampleAssignmentModel.Task" />
+    <AssociationSet Name="FK_Login_Login" Association="SampleAssignmentModel.FK_Login_Login">
+      <End Role="RegisterUser" EntitySet="RegisterUsers" />
+      <End Role="Login" EntitySet="Logins" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Task_RegisterUser" Association="SampleAssignmentModel.FK_Task_RegisterUser">
+      <End Role="RegisterUser" EntitySet="RegisterUsers" />
+      <End Role="Task" EntitySet="Tasks" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UserID" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="RegisterUser" Relationship="SampleAssignmentModel.FK_Login_Login" FromRole="Login" ToRole="RegisterUser" />
+  </EntityType>
+  <EntityType Name="RegisterUser">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Location" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Logins" Relationship="SampleAssignmentModel.FK_Login_Login" FromRole="RegisterUser" ToRole="Login" />
+    <NavigationProperty Name="Tasks" Relationship="SampleAssignmentModel.FK_Task_RegisterUser" FromRole="RegisterUser" ToRole="Task" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TaskName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UserID" Type="Int64" Nullable="false" />
+    <Property Name="Priority" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="RegisterUser" Relationship="SampleAssignmentModel.FK_Task_RegisterUser" FromRole="Task" ToRole="RegisterUser" />
+  </EntityType>
+  <Association Name="FK_Login_Login">
+    <End Type="SampleAssignmentModel.RegisterUser" Role="RegisterUser" Multiplicity="1" />
+    <End Type="SampleAssignmentModel.Login" Role="Login" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RegisterUser">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Login">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Task_RegisterUser">
+    <End Type="SampleAssignmentModel.RegisterUser" Role="RegisterUser" Multiplicity="1" />
+    <End Type="SampleAssignmentModel.Task" Role="Task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RegisterUser">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Task">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

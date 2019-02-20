@@ -1,0 +1,213 @@
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\SampleAPI.dll.config
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\SampleAPI.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\SampleAPI.pdb
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\csc.exe
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\csi.exe
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\EntityFramework.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\System.Web.Http.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\EntityFramework.xml
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\System.Web.Http.xml
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\SampleAPI\SampleAPI\obj\Debug\SampleAPI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SampleAPI\SampleAPI\obj\Debug\SampleAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SampleAPI\SampleAPI\obj\Debug\SampleAPI.csproj.CopyComplete
+C:\Users\User\source\repos\SampleAPI\SampleAPI\obj\Debug\SampleAPI.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\obj\Debug\SampleAPI.pdb
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\System.Web.Cors.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\System.Web.Http.Cors.dll
+C:\Users\User\source\repos\SampleAPI\SampleAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\SampleAPI.dll.config
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\SampleAPI.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\SampleAPI.pdb
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\csc.exe
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\csc.exe.config
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\csc.rsp
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\csi.exe
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\csi.exe.config
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\csi.rsp
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Console.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\vbc.exe
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\vbc.exe.config
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\vbc.rsp
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\EntityFramework.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\Newtonsoft.Json.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\System.Web.Cors.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\System.Web.Http.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\EntityFramework.xml
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\System.Web.Http.xml
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\Newtonsoft.Json.xml
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\obj\Debug\SampleAPI.csprojAssemblyReference.cache
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\obj\Debug\SampleAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\obj\Debug\SampleAPI.csproj.CopyComplete
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\obj\Debug\SampleAPI.dll
+C:\Users\Nishanthan\Desktop\New folder\SampleAPI\SampleAPI\SampleAPI\obj\Debug\SampleAPI.pdb
+D:\Parcial\SampleAPI\SampleAPI\bin\SampleAPI.dll.config
+D:\Parcial\SampleAPI\SampleAPI\bin\SampleAPI.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\SampleAPI.pdb
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\csc.exe
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\csc.exe.config
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\csc.rsp
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\csi.exe
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\csi.exe.config
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\csi.rsp
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.AppContext.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Console.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.IO.Compression.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Security.Claims.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.ValueTuple.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\vbc.exe
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\vbc.exe.config
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\vbc.rsp
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\VBCSCompiler.exe
+D:\Parcial\SampleAPI\SampleAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Parcial\SampleAPI\SampleAPI\bin\EntityFramework.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\EntityFramework.SqlServer.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\Newtonsoft.Json.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\System.Net.Http.Formatting.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\System.Web.Cors.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\System.Web.Http.Cors.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\System.Web.Http.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\System.Web.Http.WebHost.dll
+D:\Parcial\SampleAPI\SampleAPI\bin\EntityFramework.xml
+D:\Parcial\SampleAPI\SampleAPI\bin\EntityFramework.SqlServer.xml
+D:\Parcial\SampleAPI\SampleAPI\bin\System.Net.Http.Formatting.xml
+D:\Parcial\SampleAPI\SampleAPI\bin\System.Web.Http.xml
+D:\Parcial\SampleAPI\SampleAPI\bin\System.Web.Http.Cors.xml
+D:\Parcial\SampleAPI\SampleAPI\bin\Newtonsoft.Json.xml
+D:\Parcial\SampleAPI\SampleAPI\bin\System.Web.Http.WebHost.xml
+D:\Parcial\SampleAPI\SampleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Parcial\SampleAPI\SampleAPI\obj\Debug\SampleAPI.csprojAssemblyReference.cache
+D:\Parcial\SampleAPI\SampleAPI\obj\Debug\SampleAPI.csproj.CoreCompileInputs.cache
+D:\Parcial\SampleAPI\SampleAPI\obj\Debug\SampleAPI.csproj.CopyComplete
+D:\Parcial\SampleAPI\SampleAPI\obj\Debug\SampleAPI.dll
+D:\Parcial\SampleAPI\SampleAPI\obj\Debug\SampleAPI.pdb
